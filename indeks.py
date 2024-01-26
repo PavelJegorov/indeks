@@ -33,4 +33,3 @@ print("Kohtumiseni, " + nimi + "! Igavesti Sinu, Python!")
 
 except ValueError:
      print("Vale sisend! Palun sisesta sobivad väärtused.")
-    #print("ValueError")
